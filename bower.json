@@ -14,8 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "documentjs": "bitovi/documentjs#master",
     "steal": "bitovi/steal#minor",
-    "lodash": "~2.4.1"
+    "marked": "~0.3.2"
   }
 }
