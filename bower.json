@@ -1,0 +1,21 @@
+{
+  "name": "litjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/matthewp/dotfiles",
+  "authors": [
+    "Matthew Phillips <matthew@matthewphillips.info>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "documentjs": "bitovi/documentjs#master",
+    "steal": "bitovi/steal#minor",
+    "lodash": "~2.4.1"
+  }
+}
