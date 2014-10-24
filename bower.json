@@ -1,7 +1,7 @@
 {
   "name": "litjs",
-  "version": "0.0.0",
-  "homepage": "https://github.com/matthewp/dotfiles",
+  "version": "0.0.1",
+  "homepage": "https://github.com/matthewp/system-litjs",
   "authors": [
     "Matthew Phillips <matthew@matthewphillips.info>"
   ],
@@ -14,11 +14,11 @@
     "tests"
   ],
   "dependencies": {
-    "steal": "bitovi/steal#minor",
     "marked": "~0.3.2"
   },
   "devDependencies": {
     "mocha": "~2.0.1",
-    "chai": "~1.9.2"
+    "chai": "~1.9.2",
+    "steal": "bitovi/steal#minor",
   }
 }
