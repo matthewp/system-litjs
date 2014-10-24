@@ -1,5 +1,5 @@
 {
-  "name": "litjs",
+  "name": "system-litjs",
   "version": "0.0.1",
   "homepage": "https://github.com/matthewp/system-litjs",
   "authors": [
@@ -19,6 +19,6 @@
   "devDependencies": {
     "mocha": "~2.0.1",
     "chai": "~1.9.2",
-    "steal": "bitovi/steal#minor",
+    "steal": "bitovi/steal#minor"
   }
 }
