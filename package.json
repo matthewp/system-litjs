@@ -1,6 +1,6 @@
 {
-  "name": "system-litjs",
-  "version": "0.0.2",
+  "name": "litjs",
+  "version": "0.0.3",
   "description": "Literate programming plugin for SystemJS",
   "main": "litjs.js",
   "directories": {
@@ -30,5 +30,8 @@
   },
   "devDependencies": {
     "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "marked": "^0.3.2"
   }
 }
