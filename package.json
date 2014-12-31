@@ -1,0 +1,34 @@
+{
+  "name": "system-litjs",
+  "version": "0.0.1",
+  "description": "Literate programming plugin for SystemJS",
+  "main": "litjs.js",
+  "directories": {
+    "test": "test",
+    "baseURL": "",
+    "lib": "lib",
+    "packages": "jspm_packages"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewp/system-litjs.git"
+  },
+  "author": "Matthew Phillips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewp/system-litjs/issues"
+  },
+  "homepage": "https://github.com/matthewp/system-litjs",
+  "jspm": {
+    "dependencies": {
+      "chai": "npm:chai@^1.10.0",
+      "marked": "npm:marked@^0.3.2"
+    }
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}

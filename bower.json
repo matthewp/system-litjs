@@ -18,7 +18,6 @@
   },
   "devDependencies": {
     "mocha": "~2.0.1",
-    "chai": "~1.9.2",
-    "steal": "bitovi/steal#minor"
+    "chai": "~1.9.2"
   }
 }
