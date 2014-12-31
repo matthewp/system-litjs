@@ -1,6 +1,6 @@
 {
   "name": "system-litjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Literate programming plugin for SystemJS",
   "main": "litjs.js",
   "directories": {
